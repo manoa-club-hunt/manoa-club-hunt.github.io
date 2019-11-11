@@ -1,11 +1,17 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Project Goals](#project-goals)
+* [Approach](#approach)
+* [Use Case Ideas](#use-case-ideas)
+* [Advanced Features](#advanced-features)
 * [Page Mockups](#page-mockups)
 
 ## Overview
 
-## Project Goals
+## Approach
+
+## Use Case Ideas
+
+## Advanced Features
 
 ## Page Mockups
