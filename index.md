@@ -46,5 +46,4 @@ User Registration: Users can join and apply to the various clubs on the list.
 Club Registration: Clubs can add, update, and remove themselves from the system. Here they can also post their home pages and descriptions.
 Search Bar: One can use the search bar to look for names of clubs
 
-
 ## Page Mockups
