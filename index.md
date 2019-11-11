@@ -12,13 +12,12 @@ _The problem:_ UH Mānoa has hundreds of active clubs. However, it can be diffic
 _The solution:_ Mānoa Club Hunt is an application to aid students in their hunt for clubs to join. It will provide students with a directory of clubs containing club information, club meeting location/times, club website link, and club contact information.
 
 ## Approach
-Mānoa Club Hunt will have three different accounts roles: users, club admins, and site admins. Each club will be tagged with what interests their club is about. 
+Mānoa Club Hunt will have three different user roles: users, club admins, and site admins. 
+Users will be able to search and join clubs they are interested in, and recieve notifications about the club's activities. 
+Club Admins will be able to edit their club page i.e., post club activities, change the description, change interest areas; and can monitor the activities of their club members. 
+Site Admins will grant Club Admin privileges to users, ensure the site is running properly, and ensure that there isn't inappropriate and/or illicit activity happening on the site.
 
-Users will be able to search and join clubs they are interested in, and recieve notifications about their clubs activities.
-
-Club admins will be able to post activities about their club, change the description, page and interests of the club and monitor the activities of their club members.
-
-Site admins will grant club admin privileges to users, ensure the site is working correctly and make sure there is no inappropriate or illicit activity happening on the site.
+Clubs will be listed by alphabetical order, but can also sorted by interest areas as well. Each club will be tagged with their corresponding interest areas.
 
 Potential mockup page ideas:
 
@@ -34,9 +33,10 @@ Potential mockup page ideas:
   * Sign in page
 
 ## Use Case Ideas
-Here ar example use case ideas for our system.
+Here are example use case ideas for our system.
 
-*
+* User goes to landing page, logs in, goes to their home page, and creates their profile.
+* Club admin 
 
 ## Advanced Features
 
