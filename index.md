@@ -7,9 +7,9 @@
 * [Page Mockups](#page-mockups)
 
 ## Overview
-UH Mānoa has hundreds of active clubs. 
-However, it can be difficult for new students to find information about potential clubs they want to join. 
-Mānoa Club Hunt is an application to aid students in their hunt for clubs to join.
+_The problem:_ UH Mānoa has hundreds of active clubs. However, it can be difficult for new students to find information about potential clubs they want to join. 
+
+_The solution:_ Mānoa Club Hunt is an application to aid students in their hunt for clubs to join. It will provide students with a directory of clubs containing club information, club meeting location/times, club website link, and club contact information.
 
 ## Approach
 Mānoa Club Hunt will have three different accounts roles, users, club admins and site admins.
