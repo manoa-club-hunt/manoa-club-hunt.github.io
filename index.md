@@ -1,4 +1,11 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [User Guide](#user-guide)
+* [Project Goals](#project-goals)
+* [Page Mockups](#page-mockups)
+
+## Overview
+
+## Project Goals
+
+## Page Mockups
