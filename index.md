@@ -45,4 +45,10 @@ Here are example use case ideas for our system:
 
 ## Advanced Features
 
+* Guest Mode and User Mode: People should be able to browse clubs without logging in.
+* Filter System: User is able to filter clubs by preferences such as trending, order, popularity, etc.
+* User Registration: Users can join and apply to the various clubs on the list.
+* Club Registration: Clubs can add, update, and remove themselves from the system. Here they can also post their home pages and descriptions.
+* Search Bar: One can use the search bar to look for names of clubs
+
 ## Page Mockups
