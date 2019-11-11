@@ -13,8 +13,11 @@ _The solution:_ Mānoa Club Hunt is an application to aid students in their hunt
 
 ## Approach
 Mānoa Club Hunt will have three different user roles: users, club admins, and site admins. 
+
 Users will be able to search and join clubs they are interested in, and recieve notifications about the club's activities. 
+
 Club Admins will be able to edit their club page i.e., post club activities, change the description, change interest areas; and can monitor the activities of their club members. 
+
 Site Admins will grant Club Admin privileges to users, ensure the site is running properly, and ensure that there isn't inappropriate and/or illicit activity happening on the site.
 
 Clubs will be listed by alphabetical order, but can also sorted by interest areas as well. Each club will be tagged with their corresponding interest areas.
@@ -22,28 +25,34 @@ Clubs will be listed by alphabetical order, but can also sorted by interest area
 Potential mockup page ideas:
 
   * Landing page 
-  * List clubs page
-  * User home page
-  * User profile page
-  * Club profile page
-  * Club admin home page
-  * Club edit page 
-  * Site admin home page
   * Register page
   * Sign in page
+  * User home page
+  * User profile page
+  * Site Admin home page
+  * Edit profile page
+  * Club profile page
+  * Edit club page 
+  * List clubs page
 
 ## Use Case Ideas
-Here are example use case ideas for our system.
+Here are example use case ideas for our system:
 
-* User goes to landing page, logs in, goes to their home page, and creates their profile.
-* Club admin 
+* New user goes to landing page, logs in, goes to their home page, creates their profile.
+* User goes to landing page, logs in, goes to list club page, searches for clubs.
+* Club Admin goes to landing page, logs in, goes to club profile page, edits club page.
+* Admin goes to landing page, logs in, edits site.
 
 ## Advanced Features
 
-Guest Mode and User Mode: People should be able to browse clubs without logging in.
-Filter System: User is able to filter clubs by preferences such as trending, order, popularity, etc.
-User Registration: Users can join and apply to the various clubs on the list.
-Club Registration: Clubs can add, update, and remove themselves from the system. Here they can also post their home pages and descriptions.
-Search Bar: One can use the search bar to look for names of clubs
+* Guest Mode and User Mode: People should be able to browse clubs without logging in.
+
+* Filter System: User is able to filter clubs by preferences such as trending, order, popularity, etc.
+
+* User Registration: Users can join and apply to the various clubs on the list.
+
+* Club Registration: Clubs can add, update, and remove themselves from the system. Here they can also post their home pages, descriptions, contact information, locations, and time schedule.
+
+* Search Bar: One can use the search bar to look for names of clubs
 
 ## Page Mockups
