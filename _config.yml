@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Manoa Club Hunt
-description: What websites about
+title: Mānoa Club Hunt
+description: Mānoa Club Hunt is an application to aid students in their hunt for clubs to join.
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-club-hunt/manoa-club-hunt.github.io
