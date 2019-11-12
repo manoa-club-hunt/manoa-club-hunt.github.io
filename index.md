@@ -5,6 +5,7 @@
 * [Use Case Ideas](#use-case-ideas)
 * [Advanced Features](#advanced-features)
 * [Page Mockups](#page-mockups)
+* [Team Members](#team-members)
 
 ## Overview
 _The problem:_ UH Mānoa has hundreds of active clubs. However, it can be difficult for new students to find information about potential clubs they want to join. 
@@ -86,3 +87,9 @@ Here are example use case ideas for our system:
 
 ### Site Admin Page: 
 <img src="doc/site-admin-home-page.jpeg" alt="site admin home page">
+
+## Team Members:
+* Konapiliahi Canaday
+* Xandrew Julian
+* Ioane Omerod
+* Sun Young Kim
