@@ -56,3 +56,33 @@ Here are example use case ideas for our system:
 * Recommendation System: Users can be recommended clubs based on their interests.
 
 ## Page Mockups
+
+### Landing Page:
+<img src="doc/landing-page.jpeg" alt="landing page">
+
+### List Clubs Page:
+<img src="doc/club-directory.jpeg" alt="club directory">
+
+### Register Page:
+<img src="doc/register-page.jpeg" alt="register page">
+
+### Login Page:
+<img src="doc/login-page.jpeg" alt="login page">
+
+### User Home Page:
+<img src="doc/user-home-page.jpeg" alt="user home page">
+
+### User Profile Page:
+<img src="doc/user-profile-page.jpeg" alt="user profile page">
+
+### Edit User Page:
+<img src="doc/edit-user-profile.jpeg" alt="edit user profile page">
+
+### Club Profile Page:
+<img src="doc/club-profile-page.jpeg" alt="club profile page">
+
+### Edit Club Page:
+<img src="doc/edit-club-page.jpeg" alt="edit club page">
+
+### Site Admin Page: 
+<img src="doc/site-admin-home-page.jpeg" alt="site admin home page">
