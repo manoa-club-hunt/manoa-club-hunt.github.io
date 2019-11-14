@@ -89,7 +89,7 @@ Here are example use case ideas for our system:
 <img src="doc/site-admin-home-page.jpeg" alt="site admin home page">
 
 ## Team Members:
-* Konapiliahi Canaday
-* Xandrew Julian
-* Ioane Omerod
-* Sun Young Kim
+* Konapiliahi Canaday, Computer Engineering
+* Xandrew Julian, Computer Engineering
+* Ioane Omerod, Computer Science
+* Sun Young Kim, Computer Science
