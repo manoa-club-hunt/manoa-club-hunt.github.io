@@ -89,7 +89,7 @@ Here are example use case ideas for our system:
 <img src="doc/site-admin-home-page.jpeg" alt="site admin home page">
 
 ## Team Members:
-* [Konapiliahi Canaday] (https://k-canaday.github.io/), Computer Engineering
-* [Xandrew Julian] (https://xandrewuh.github.io/), Computer Engineering
-* [Ioane Omerod] (https://ioaneomerod.github.io/), Computer Science
-* [Sun Young Kim] (https://sunyoungk.github.io/), Computer Science
+* [Konapiliahi Canaday](https://k-canaday.github.io/), Computer Engineering
+* [Xandrew Julian](https://xandrewuh.github.io/), Computer Engineering
+* [Ioane Omerod](https://ioaneomerod.github.io/), Computer Science
+* [Sun Young Kim](https://sunyoungk.github.io/), Computer Science
