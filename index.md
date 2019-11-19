@@ -1,8 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Approach](#approach)
-* [Use Case Ideas](#use-case-ideas)
+* [Milestones](#milestones)
 * [Advanced Features](#advanced-features)
 * [Page Mockups](#page-mockups)
 * [Team Members](#team-members)
@@ -14,39 +13,26 @@ _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs
 Users will be able to join clubs and receive notifications about the club.
 Clubs will be able to send out notifications to their club members through Mānoa Club Hunt. 
 
-## Approach
-Mānoa Club Hunt will have three different user roles: users, club admins, and site admins. 
+## Milestones
+### Milestone 1
+For Milestone 1 our group created mockup pages for our application. Excluding edit pages, these pages are:
+* Landing page
+* List club page
+* Create club page
+* User profile page
+* Club profile page
 
-Users will be able to search and join clubs they are interested in, and recieve notifications about the club's activities. 
+Currently functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. User can enter information about themselves on the user profile page and club profile page displays all relevant information about the club. 
 
-Club Admins will be able to edit their club page i.e., post club activities, change the description, change interest areas; and can monitor the activities of their club members. 
+Link to Milestone 1 page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1).
 
-Site Admins will grant Club Admin privileges to users, ensure the site is running properly, and ensure that there isn't inappropriate and/or illicit activity happening on the site.
+### Milestone 2
+For Milestone 2 our group will continue to add functionality to the application and improve visuals. Functionality improvements:
+* Filter clubs by interests
+* User can join clubs
+* Site admin can delete clubs
 
-Clubs will be listed by alphabetical order, but can also be sorted by interest areas as well. Each club will be tagged with their corresponding interest areas.
-
-Visitors will be able to search through clubs without making an account, but visitors will need to make an account to utilize the user privileges. 
-
-Potential mockup page ideas:
-
-  * Landing page 
-  * Register page
-  * Sign in page
-  * User home page
-  * User profile page
-  * Site Admin home page
-  * Edit profile page
-  * Club profile page
-  * Edit club page 
-  * List clubs page
-
-## Use Case Ideas
-Here are example use case ideas for our system:
-
-* New user goes to landing page, logs in, goes to their home page, creates their profile.
-* User goes to landing page, logs in, goes to list club page, searches for clubs.
-* Club Admin goes to landing page, logs in, goes to club profile page, edits club page.
-* Site Admin goes to landing page, logs in, edits site.
+Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2).
 
 ## Advanced Features
 * Filter System: User is able to filter clubs by preferences such as trending, order, popularity, etc.
