@@ -22,7 +22,7 @@ For Milestone 1 our group created mockup pages for our application. Excluding ed
 * User profile page
 * Club profile page
 
-Currently functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. User can enter information about themselves on the user profile page and club profile page displays all relevant information about the club. 
+Current functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. User can enter information about themselves on the user profile page and club profile page displays all relevant information about the club. 
 
 Link to Milestone 1 page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1).
 
