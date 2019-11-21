@@ -13,7 +13,9 @@ _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs
 Users will be able to join clubs and receive notifications about the club.
 Clubs will be able to send out notifications to their club members through Mānoa Club Hunt. 
 
-_Link to GitHub Organization [here](https://github.com/manoa-club-hunt)_ 
+_Link to GitHub Organization [here](https://github.com/manoa-club-hunt)_.
+
+_Link to Galaxy deployment [here](http://manoa-club-hunt.meteorapp.com/)_.
 
 ## Milestones
 ### Milestone 1
@@ -39,14 +41,6 @@ For Milestone 2 our group will continue to add functionality to the application 
 
 Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2).
 
-## Advanced Features
-* Filter System: User is able to filter clubs by preferences such as trending, order, popularity, etc.
-* Club Registration: Clubs can add, update, and remove themselves from the system. Here they can also post their home pages, descriptions, contact information, locations, and time schedule.
-* Search Bar: One can use the search bar to look for names of clubs.
-* Rating System: Users can rate the clubs.
-* Mark System: Users can mark any clubs they are interested in.
-* Recommendation System: Users can be recommended clubs based on their interests.
-
 ## Page Mockups
 
 ### Landing Page:
@@ -68,7 +62,7 @@ Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hu
 <img src="doc/club-directory.JPG" alt="club directory">
 
 ### Club Profile Page:
-<img src="doc/club-profile-page.jpeg" alt="club profile page">
+<img src="doc/club-profile.PNG" alt="club profile page">
 
 ### Add Club Page:
 <img src="doc/add-club-page.JPG" alt="add club page">
