@@ -58,7 +58,7 @@ Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hu
 <img src="doc/user-home-page.JPG" alt="user home page">
 
 ### User Profile Page:
-<img src="doc/user-profile-page.jpeg" alt="user profile page">
+<img src="doc/user-profile-page.png" alt="user profile page">
 
 ### List Clubs Page:
 <img src="doc/club-directory.JPG" alt="club directory">
