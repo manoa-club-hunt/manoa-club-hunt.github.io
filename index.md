@@ -50,25 +50,31 @@ Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hu
 ## Page Mockups
 
 ### Landing Page:
-<img src="doc/landing-page.jpeg" alt="landing page">
+<img src="doc/landing-page.JPG" alt="landing page">
 
 ### Register Page:
 <img src="doc/register-page.jpeg" alt="register page">
 
 ### Login Page:
-<img src="doc/login-page.jpeg" alt="login page">
+<img src="doc/login-page.JPG" alt="login page">
 
 ### User Home Page:
-<img src="doc/user-home-page.jpeg" alt="user home page">
+<img src="doc/user-home-page.JPG" alt="user home page">
 
 ### User Profile Page:
 <img src="doc/user-profile-page.jpeg" alt="user profile page">
 
 ### List Clubs Page:
-<img src="doc/club-directory.jpeg" alt="club directory">
+<img src="doc/club-directory.JPG" alt="club directory">
 
 ### Club Profile Page:
 <img src="doc/club-profile-page.jpeg" alt="club profile page">
+
+### Add Club Page:
+<img src="doc/add-club-page.JPG" alt="add club page">
+
+### Edit Club Page:
+<img src="doc/edit-club-page.JPG" alt="edit club page">
 
 ## Team Members:
 * [Konapiliahi Canaday](https://k-canaday.github.io/), Computer Engineering
