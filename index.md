@@ -13,6 +13,8 @@ _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs
 Users will be able to join clubs and receive notifications about the club.
 Clubs will be able to send out notifications to their club members through Mānoa Club Hunt. 
 
+_Link to GitHub Organization: _ https://github.com/manoa-club-hunt
+
 ## Milestones
 ### Milestone 1
 For Milestone 1 our group created mockup pages for our application. Excluding edit pages, these pages are:
