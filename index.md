@@ -47,7 +47,7 @@ Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hu
 <img src="doc/landing-page.JPG" alt="landing page">
 
 ### Register Page:
-<img src="doc/register-page.jpeg" alt="register page">
+<img src="doc/register.PNG" alt="register page">
 
 ### Login Page:
 <img src="doc/login-page.JPG" alt="login page">
