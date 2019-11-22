@@ -73,6 +73,13 @@ While logged in, you can click on "Add Club" to go to a page that allows you to 
 <img src="doc/add-club-page.JPG" alt="add club page">
 
 ## Development History
+
+Issue Drive Project Management was used to create this application.
+* Development is made up of three Milestones.
+* Each Milestone is a set of tasks to be completed.
+* Each task is a GitHub Issue that is worked on by one team member in a separate branch called issue-xx, where xx is the issue number of the task.
+* When a task is complete, its issue is closed on GitHub.
+
 ### Milestone 1
 For Milestone 1 our group created mockup pages for our application. Excluding edit pages, these pages are:
 * Landing page
