@@ -58,6 +58,8 @@ Current functionality allows a user to create an account and browse for clubs to
 
 Here is the [Milestone 1 Project Board](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1):
 
+<img src="doc/milestone1.png" alt="milestone 1 project board">
+
 ### Milestone 2
 For Milestone 2 our group will continue to add functionality to the application and improve visuals. Improvements:
 * Finish implementing user profile page
