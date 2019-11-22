@@ -8,7 +8,7 @@
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Milestone 1](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1)
-* [Milestone 2] (https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2)
+* [Milestone 2](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2)
 * [Team Members](#team-members)
 
 ## Overview
