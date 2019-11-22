@@ -19,7 +19,7 @@ Clubs will be able to send out notifications to their club members through Māno
 ## Page Mockups
 
 ### Landing Page:
-<img src="doc/landing-page.JPG" alt="landing page">
+<a href="http://manoa-club-hunt.meteorapp.com/#/"><img src="doc/landing-page.JPG" alt="landing page"></a>
 
 ### Register Page:
 <img src="doc/register.PNG" alt="register page">
