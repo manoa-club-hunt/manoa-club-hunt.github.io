@@ -20,19 +20,19 @@ Clubs will be able to send out notifications to their club members through Māno
 
 ### Landing Page:
 
-The landing page is the first page presented to users and gives a brief description of our application.
+The [Landing Page](http://manoa-club-hunt.meteorapp.com/#/) is the first page presented to users and gives a brief description of our application.
 
 <img src="doc/landing-page.JPG" alt="landing page">
 
 ### Register Page:
 
-Click on "Login" in the top right of the page and select "Sign Up" to register if you are a new user.
+Clicking on "Login" in the top right corner of the page and then "Sign Up" brings up the [Register Page](http://manoa-club-hunt.meteorapp.com/#/signup) to register if you are a new user.
 
 <img src="doc/register.PNG" alt="register page">
 
 ### Login Page:
 
-Click on "Sign In" above "Sign Up" to log in if you are an already registered user. 
+Clicking on "Login" in the top right corner of the page and then "Sign In" brings up the [Login Page](http://manoa-club-hunt.meteorapp.com/#/signin) to login if you are already a registered user.
 
 <img src="doc/login-page.JPG" alt="login page">
 
