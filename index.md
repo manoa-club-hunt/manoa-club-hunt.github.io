@@ -19,31 +19,58 @@ Clubs will be able to send out notifications to their club members through Māno
 ## User Guide
 
 ### Landing Page:
+
+The landing page is the first page presented to users and gives a brief description of our application.
+
 <img src="doc/landing-page.JPG" alt="landing page">
 
 ### Register Page:
+
+Click on "Login" in the top right of the page and select "Sign Up" to register if you are a new user.
+
 <img src="doc/register.PNG" alt="register page">
 
 ### Login Page:
+
+Click on "Sign In" above "Sign Up" to log in if you are an already registered user. 
+
 <img src="doc/login-page.JPG" alt="login page">
 
 ### User Home Page:
+
+After logging in, click on "Home" to be directed to a user home page.
+
 <img src="doc/user-home-page.JPG" alt="user home page">
 
 ### User Profile Page:
+
+After logging in, click on your email in the top right of the navbar and then click on "Your Profile" to go to the user profile page that shows all of the data associated with your profile.
+
 <img src="doc/user-profile-page.PNG" alt="user profile page">
 
 ### List Clubs Page:
+
+The List Clubs page shows all of the clubs currently in our system sorted alphabetically.
+
 <img src="doc/club-directory.JPG" alt="club directory">
 
 ### Club Profile Page:
+
+While logged in, you can click on the "View Profile" link on clubs in the List Clubs page to show a profile that displays data associated with the club.
+
 <img src="doc/club-profile.PNG" alt="club profile page">
 
-### Add Club Page:
-<img src="doc/add-club-page.JPG" alt="add club page">
-
 ### Edit Club Page:
+
+While logged in, you can click on "Edit Club" on any club profile to be directed to a form that allows you to change the data associated with the club.
+
 <img src="doc/edit-club-page.JPG" alt="edit club page">
+
+### Add Club Page:
+
+While logged in, you can click on "Add Club" to go to a page that allows you to fill out a form that will create a new club in our system.
+
+<img src="doc/add-club-page.JPG" alt="add club page">
 
 ## Development History
 ### Milestone 1
@@ -53,6 +80,7 @@ For Milestone 1 our group created mockup pages for our application. Excluding ed
 * Create club page
 * Club profile page
 * User home page
+* User profile page
 
 Current functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. The club profile page displays all relevant information about the club selected. We also added in 100 club listings from the official UH Manoa club list. 
 
