@@ -3,8 +3,8 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Github Organization](https://github.com/manoa-club-hunt)
-* [Galaxy Deployment](http://manoa-club-hunt.meteorapp.com/)
+* [Github Organization Link](https://github.com/manoa-club-hunt)
+* [Galaxy Deployment Link](http://manoa-club-hunt.meteorapp.com/)
 * [Page Mockups](#page-mockups)
 * [Milestones](#milestones)
 * [Team Members](#team-members)
