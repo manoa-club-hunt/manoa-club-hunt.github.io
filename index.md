@@ -5,8 +5,10 @@
 * [Overview](#overview)
 * [Github Organization Link](https://github.com/manoa-club-hunt)
 * [Galaxy Deployment Link](http://manoa-club-hunt.meteorapp.com/)
-* [Page Mockups](#page-mockups)
-* [Milestones](#milestones)
+* [User Guide](#user-guide)
+* [Development History](#development-history)
+* [Milestone 1](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1)
+* [Milestone 2] (https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2)
 * [Team Members](#team-members)
 
 ## Overview
@@ -16,10 +18,10 @@ _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs
 Users will be able to join clubs and receive notifications about the club.
 Clubs will be able to send out notifications to their club members through Mānoa Club Hunt. 
 
-## Page Mockups
+## User Guide
 
 ### Landing Page:
-<a href="http://manoa-club-hunt.meteorapp.com/#/"><img src="doc/landing-page.JPG" alt="landing page"></a>
+<img src="doc/landing-page.JPG" alt="landing page">
 
 ### Register Page:
 <img src="doc/register.PNG" alt="register page">
@@ -45,7 +47,7 @@ Clubs will be able to send out notifications to their club members through Māno
 ### Edit Club Page:
 <img src="doc/edit-club-page.JPG" alt="edit club page">
 
-## Milestones
+## Development History
 ### Milestone 1
 For Milestone 1 our group created mockup pages for our application. Excluding edit pages, these pages are:
 * Landing page
@@ -55,8 +57,6 @@ For Milestone 1 our group created mockup pages for our application. Excluding ed
 * User home page
 
 Current functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. The club profile page displays all relevant information about the club selected. We also added in 100 club listings from the official UH Manoa club list. 
-
-Link to Milestone 1 page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1).
 
 ### Milestone 2
 For Milestone 2 our group will continue to add functionality to the application and improve visuals. Improvements:
@@ -68,8 +68,6 @@ For Milestone 2 our group will continue to add functionality to the application 
 * Add next 100 clubs from official UH Manoa club list
 * Able to delete club listings
 * User profile page will display clubs user is member of
-
-Link to Milestone 2 page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2).
 
 ## Team Members:
 * [Konapiliahi Canaday](https://k-canaday.github.io/), Computer Engineering
