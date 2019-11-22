@@ -29,7 +29,7 @@ Clubs will be able to send out notifications to their club members through Māno
 <img src="doc/user-home-page.JPG" alt="user home page">
 
 ### User Profile Page:
-<img src="doc/user-profile-page.png" alt="user profile page">
+<img src="doc/user-profile-page.PNG" alt="user profile page">
 
 ### List Clubs Page:
 <img src="doc/club-directory.JPG" alt="club directory">
