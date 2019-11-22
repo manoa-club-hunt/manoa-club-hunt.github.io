@@ -1,3 +1,5 @@
+<img src="doc/index-front-image.PNG" alt="front image">
+
 ## Table of contents
 
 * [Overview](#overview)
