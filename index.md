@@ -89,7 +89,7 @@ For Milestone 1 our group created mockup pages for our application. Excluding ed
 * User home page
 * User profile page
 
-Current functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. The club profile page displays all relevant information about the club selected. We also added in 100 club listings from the official UH Manoa club list. 
+Current functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. The club profile page displays all relevant information about the club selected. We also added in 100 club listings from the official UH Mānoa club list. 
 
 Here is the [Milestone 1 Project Board](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1):
 
@@ -102,7 +102,7 @@ For Milestone 2 our group will continue to add functionality to the application 
 * Add pagination to club listings
 * User can join clubs
 * Site admin can delete clubs
-* Add next 100 clubs from official UH Manoa club list
+* Add next 100 clubs from official UH Mānoa club list
 * Able to delete club listings
 * User profile page will display clubs user is member of
 
