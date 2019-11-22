@@ -50,7 +50,7 @@ After logging in, click on your email in the top right of the navbar and then cl
 
 ### List Clubs Page:
 
-The List Clubs page shows all of the clubs currently in our system sorted alphabetically.
+The [List Clubs Page](http://manoa-club-hunt.meteorapp.com/#/list) shows all of the clubs currently in our system sorted alphabetically.
 
 <img src="doc/club-directory.JPG" alt="club directory">
 
