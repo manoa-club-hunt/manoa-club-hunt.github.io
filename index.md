@@ -48,6 +48,12 @@ After logging in, click on your email in the top right of the navbar and then cl
 
 <img src="doc/user-profile-page.PNG" alt="user profile page">
 
+### Edit User Profile Page:
+
+After logging in, and going to your profile page click on the "Edit Profile" button to go to the [Edit User Profile Page](http://manoa-club-hunt.meteorapp.com/#/edituserprofile) that allows you to fill out a form to edit your profile.
+
+<img src="doc/edit-user-profile.png" alt="edit user profile page">
+
 ### List Clubs Page:
 
 The [List Clubs Page](http://manoa-club-hunt.meteorapp.com/#/list) shows all of the clubs currently in our system sorted alphabetically.
