@@ -5,8 +5,9 @@
 * [Overview](#overview)
 * [Github Organization Link](https://github.com/manoa-club-hunt)
 * [Galaxy Deployment Link](http://manoa-club-hunt.meteorapp.com/)
+* [Milestones](#milestones)
 * [User Guide](#user-guide)
-* [Development History](#development-history)
+* [Developer Guide](#developer-guide)
 * [Team Members](#team-members)
 
 ## Overview
@@ -15,6 +16,11 @@ _The problem:_ UH Mānoa has hundreds of active clubs. However, it can be diffic
 _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs containing club information, club meeting location and times, club website links, and club contact information. 
 Users will be able to join clubs and receive notifications about the club.
 Clubs will be able to send out notifications to their club members through Mānoa Club Hunt. 
+
+## Milestones
+Milestone 1 project page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1).
+Milestone 2 project page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2).
+Milestone 3 project page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/3).
 
 ## User Guide
 
@@ -78,41 +84,7 @@ While logged in, you can click on "Add Club" to go to the [Add Club Page](http:/
 
 <img src="doc/add-club-page.JPG" alt="add club page">
 
-## Development History
-
-Issue Drive Project Management was used to create this application.
-* Development is made up of three Milestones.
-* Each Milestone is a set of tasks to be completed.
-* Each task is a GitHub Issue that is worked on by one team member in a separate branch called issue-xx, where xx is the issue number of the task.
-* When a task is complete, its issue is closed on GitHub.
-
-### Milestone 1
-For Milestone 1 our group created mockup pages for our application. Excluding edit pages, these pages are:
-* Landing page
-* List club page
-* Create club page
-* Club profile page
-* User home page
-* User profile page
-
-Current functionality allows a user to create an account and browse for clubs to join. User can also create a club that gets added to the club list. The club list is sorted in alphabetical order. The club profile page displays all relevant information about the club selected. We also added in 100 club listings from the official UH Mānoa club list. 
-
-Here is the [Milestone 1 Project Board](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1):
-
-<img src="doc/milestone1.png" alt="milestone 1 project board">
-
-### Milestone 2
-For Milestone 2 our group will continue to add functionality to the application and improve visuals. Improvements:
-* Finish implementing user profile page
-* Filter clubs by interests
-* Add pagination to club listings
-* User can join clubs
-* Site admin can delete clubs
-* Add next 100 clubs from official UH Mānoa club list
-* Able to delete club listings
-* User profile page will display clubs user is member of
-
-Here is the [Milestone 2 Project Board](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2).
+## Developer Guide
 
 ## Team Members:
 * [Konapiliahi Canaday](https://k-canaday.github.io/), Computer Engineering
