@@ -88,6 +88,19 @@ While logged in, you can click on "Add Club" to go to the [Add Club Page](http:/
 
 ## Developer Guide
 
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [https://github.com/manoa-club-hunt/manoa-club-hunt](https://github.com/manoa-club-hunt/manoa-club-hunt), and click the "Clone or download" button to download the GitHub repo to your local file system. Using [GitHub Desktop](https://desktop.github.com/) is the preferred method if you use MacOS or Windows.
+
+Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+```
+$ meteor npm install
+```
+add note to install slideshow code thing
+### Running the system
+
+### Note regarding the "bcrypt warning":
+
 ## Team Members:
 * [Konapiliahi Canaday](https://k-canaday.github.io/), Computer Engineering
 * [Xandrew Julian](https://xandrewuh.github.io/), Computer Engineering
