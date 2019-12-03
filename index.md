@@ -19,7 +19,9 @@ Clubs will be able to send out notifications to their club members through Māno
 
 ## Milestones
 Milestone 1 project page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1).
+
 Milestone 2 project page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2).
+
 Milestone 3 project page [here](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/3).
 
 ## User Guide
