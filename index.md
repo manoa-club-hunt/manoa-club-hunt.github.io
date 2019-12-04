@@ -96,7 +96,12 @@ Third, cd into the app/ directory of your local copy of the repo, and install th
 ```
 $ meteor npm install
 ```
-add note to install slideshow code thing
+
+We will also be using the react-slide-show image library. So install it with this:
+```
+npm install react-slideshow-image -S
+```
+
 ### Running the system
 
 ### Note regarding the "bcrypt warning":
