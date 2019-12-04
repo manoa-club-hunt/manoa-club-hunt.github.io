@@ -27,17 +27,23 @@ The [Landing Page](http://manoa-club-hunt.meteorapp.com/#/) is the first page pr
 
 <img src="doc/landing-page.JPG" alt="landing page">
 
+### Login Page:
+
+Clicking on "Login" in the top right corner of the page and then "Sign In" brings up the [Login Page](http://manoa-club-hunt.meteorapp.com/#/signin). Login if you are already a registered user.
+
+<img src="doc/login-page.JPG" alt="login page">
+
 ### Register Page:
 
-Clicking on "Login" in the top right corner of the page and then "Sign Up" brings up the [Register Page](http://manoa-club-hunt.meteorapp.com/#/signup) to register if you are a new user.
+Clicking on "Login" in the top right corner of the page and then "Sign Up" brings up the [Register Page](http://manoa-club-hunt.meteorapp.com/#/signup). Sign up if you are a new user.
 
 <img src="doc/register.PNG" alt="register page">
 
-### Login Page:
+### Landing (after Login) page
 
-Clicking on "Login" in the top right corner of the page and then "Sign In" brings up the [Login Page](http://manoa-club-hunt.meteorapp.com/#/signin) to login if you are already a registered user.
+Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-<img src="doc/login-page.JPG" alt="login page">
+<img src="" alt="new landing page">
 
 ### User Home Page:
 
@@ -47,37 +53,37 @@ After logging in, click on "Home" to be directed to the [User Home Page](http://
 
 ### User Profile Page:
 
-After logging in, click on your email in the top right of the navbar and then click on "Your Profile" to go to the [User Profile Page](http://manoa-club-hunt.meteorapp.com/#/userprofile) that shows all of the data associated with your profile.
+After logging in, click on the user icon in the top right of the navbar then click on "Your Profile". You will go to the [User Profile Page](http://manoa-club-hunt.meteorapp.com/#/userprofile) that shows all of the data associated with your profile.
 
 <img src="doc/user-profile-page.PNG" alt="user profile page">
 
 ### Edit User Profile Page:
 
-After logging in, and going to your profile page click on the "Edit Profile" button to go to the [Edit User Profile Page](http://manoa-club-hunt.meteorapp.com/#/edituserprofile) that allows you to fill out a form to edit your profile.
+After logging in, and going to your profile page click on the "Edit Profile" button to go to the [Edit User Profile Page](http://manoa-club-hunt.meteorapp.com/#/edituserprofile). This page allows you to edit your user profile.
 
 <img src="doc/edit-user-profile.png" alt="edit user profile page">
 
 ### List Clubs Page:
 
-The [List Clubs Page](http://manoa-club-hunt.meteorapp.com/#/list) shows all of the clubs currently in our system sorted alphabetically.
+The [List Clubs Page](http://manoa-club-hunt.meteorapp.com/#/list) shows all of the clubs currently in the system sorted alphabetically. Each club has a website link and club profile link.
 
 <img src="doc/club-directory.JPG" alt="club directory">
 
 ### Club Profile Page:
 
-While logged in, you can click on the "View Profile" link on clubs in the List Clubs page to show a profile that displays data associated with the club. Here is [AAUW-UHM's Club Profile](http://manoa-club-hunt.meteorapp.com/#/clubPage/85fq9K3x9YXqoJgTQ).
+Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. For example, here is [AAUW-UHM's Club Profile](http://manoa-clubhunt.meteorapp.com/#/clubPage/85fq9K3x9YXqoJgTQ).
 
 <img src="doc/club-profile.PNG" alt="club profile page">
 
 ### Edit Club Page:
 
-While logged in, you can click on "Edit Club" on any club profile to be directed to a form that allows you to change the data associated with the club. Here is the [Edit Club Page for AAUW-UHM](http://manoa-club-hunt.meteorapp.com/#/edit/85fq9K3x9YXqoJgTQ).
+While logged in, you can click on "Edit Club" on the club profile page to go to the edit club page. This page allows you to edit the data associated with the club. For example, here is the [Edit Club Page for AAUW-UHM](http://manoa-club-hunt.meteorapp.com/#/edit/85fq9K3x9YXqoJgTQ).
 
 <img src="doc/edit-club-page.JPG" alt="edit club page">
 
 ### Add Club Page:
 
-While logged in, you can click on "Add Club" to go to the [Add Club Page](http://manoa-club-hunt.meteorapp.com/#/add) that allows you to fill out a form that will create a new club in our system.
+While logged in, you can click on "Add Club" to go to the [Add Club Page](http://manoa-club-hunt.meteorapp.com/#/add) that allows you to add a club to the system.
 
 <img src="doc/add-club-page.JPG" alt="add club page">
 
