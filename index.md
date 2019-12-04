@@ -39,7 +39,7 @@ Clicking on "Login" in the top right corner of the page and then "Sign Up" bring
 
 <img src="doc/register.PNG" alt="register page">
 
-### Landing (after Login) page
+### Landing (after Login) Page:
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
