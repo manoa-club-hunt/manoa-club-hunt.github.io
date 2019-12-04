@@ -111,7 +111,7 @@ Once the libraries are installed, you can run the application by invoking the "s
 $ meteor npm run start
 ```
 
-The first time you run the application, it will create some default users and club data. Here is a snippet of the output:
+The first time you run the application, it will create some default users, default user profiles, and club data. Here is the output:
 
 ```
 C:\Users\konat\Desktop\github\manoa-club-hunt\app>meteor npm run start
@@ -140,19 +140,18 @@ I20191204-02:14:41.946(-10)?    Adding: Accounting Club at UH Manoa
 I20191204-02:14:41.954(-10)?    Adding: Adventist Christian Fellowship
 I20191204-02:14:41.964(-10)?    Adding: Advocates for Public Interest Law
 I20191204-02:14:41.977(-10)?    Adding: AAUW-UHM
-I20191204-02:14:41.983(-10)?    Adding: AECT-Hawaii
-I20191204-02:14:41.992(-10)?    Adding: Aikido @ UHM
-I20191204-02:14:42.001(-10)?    Adding: Alpha Gamma Delta, Delta Sigma Chapter
-I20191204-02:14:42.014(-10)?    Adding: Alpha Sigma Phi
-I20191204-02:14:42.023(-10)?    Adding: AlohaNation Flowarts
-I20191204-02:14:42.032(-10)?    Adding: AMA,HMA Student Chapter at JABSOM
-I20191204-02:14:42.042(-10)?    Adding: American Cetacean Society Student Coalition at UH at Manoa
-I20191204-02:14:42.048(-10)?    Adding: American Indian Science and Engineering Society
-I20191204-02:14:42.061(-10)?    Adding: American Institute of Architecture Students
-I20191204-02:14:42.073(-10)?    Adding: American Library Association Student Chapter
-I20191204-02:14:42.081(-10)?    Adding: American Marketing Association
-I20191204-02:14:42.092(-10)?    Adding: American Meterological Society Aloha Chapter
-I20191204-02:14:42.099(-10)?    Adding: American Society of Civil Engineers
+.
+.
+.
+I20191204-02:14:43.692(-10)?    Adding: Women's Interest Group at JABSOM
+I20191204-02:14:43.700(-10)?    Adding: Younglife
+I20191204-02:14:43.709(-10)? Creating default user profiles.
+I20191204-02:14:43.710(-10)?    Adding: admin foo
+I20191204-02:14:43.732(-10)?    Adding: john foo
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
 ```
 
 ### Note regarding the "bcrypt warning":
