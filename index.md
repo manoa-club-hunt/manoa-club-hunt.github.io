@@ -93,18 +93,39 @@ First, [install Meteor](https://www.meteor.com/install).
 Second, go to [https://github.com/manoa-club-hunt/manoa-club-hunt](https://github.com/manoa-club-hunt/manoa-club-hunt), and click the "Clone or download" button to download the GitHub repo to your local file system. Using [GitHub Desktop](https://desktop.github.com/) is the preferred method if you use MacOS or Windows.
 
 Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
 ```
 $ meteor npm install
-```
 
-We will also be using the react-slide-show image library. So install it with this:
-```
-npm install react-slideshow-image -S
+$ npm install react-slideshow-image -S
 ```
 
 ### Running the system
 
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/manoa-club-hunt/manoa-club-hunt/blob/master/app/package.json):
+
+```
+$ meteor npm run start
+```
+
+The first time you run the application, it will create some default users and club data. Here is the output:
+
+```
+make slider with code
+```
+
 ### Note regarding the "bcrypt warning":
+
+You will also get the following message when you run this application:
+
+```
+```
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+### Viewing the running app
+
+If all goes well, the Manoa Club Hunt application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-club-hunt/manoa-club-hunt/blob/master/config/settings.development.json), or else register a new account.
 
 ## Team Members:
 * [Konapiliahi Canaday](https://k-canaday.github.io/), Computer Engineering
