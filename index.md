@@ -111,10 +111,48 @@ Once the libraries are installed, you can run the application by invoking the "s
 $ meteor npm run start
 ```
 
-The first time you run the application, it will create some default users and club data. Here is the output:
+The first time you run the application, it will create some default users and club data. Here is a snippet of the output:
 
 ```
-make slider with code
+C:\Users\konat\Desktop\github\manoa-club-hunt\app>meteor npm run start
+
+> meteor-application-template-react@ start C:\Users\konat\Desktop\github\manoa-club-hunt\app
+> meteor --no-release-check --settings ../config/settings.development.json
+
+[[[[[ C:\Users\konat\Desktop\github\manoa-club-hunt\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20191204-02:14:39.609(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20191204-02:14:40.551(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20191204-02:14:40.552(-10)? (STDERR) approximately three times slower than the native implementation.
+W20191204-02:14:40.556(-10)? (STDERR) In order to use the native implementation instead, run
+W20191204-02:14:40.557(-10)? (STDERR)
+W20191204-02:14:40.559(-10)? (STDERR)   meteor npm install --save bcrypt
+W20191204-02:14:40.563(-10)? (STDERR)
+W20191204-02:14:40.564(-10)? (STDERR) in the root directory of your application.
+I20191204-02:14:41.321(-10)? Creating the default user(s)
+I20191204-02:14:41.323(-10)?   Creating user: email->admin@foo.com, firstname->admin, lastname->foo.
+I20191204-02:14:41.629(-10)?   Creating user: email->john@foo.com, firstname->john, lastname->foo.
+I20191204-02:14:41.897(-10)? Creating default clubs.
+I20191204-02:14:41.899(-10)?    Adding: Academy for Creative Media Student Association
+I20191204-02:14:41.946(-10)?    Adding: Accounting Club at UH Manoa
+I20191204-02:14:41.954(-10)?    Adding: Adventist Christian Fellowship
+I20191204-02:14:41.964(-10)?    Adding: Advocates for Public Interest Law
+I20191204-02:14:41.977(-10)?    Adding: AAUW-UHM
+I20191204-02:14:41.983(-10)?    Adding: AECT-Hawaii
+I20191204-02:14:41.992(-10)?    Adding: Aikido @ UHM
+I20191204-02:14:42.001(-10)?    Adding: Alpha Gamma Delta, Delta Sigma Chapter
+I20191204-02:14:42.014(-10)?    Adding: Alpha Sigma Phi
+I20191204-02:14:42.023(-10)?    Adding: AlohaNation Flowarts
+I20191204-02:14:42.032(-10)?    Adding: AMA,HMA Student Chapter at JABSOM
+I20191204-02:14:42.042(-10)?    Adding: American Cetacean Society Student Coalition at UH at Manoa
+I20191204-02:14:42.048(-10)?    Adding: American Indian Science and Engineering Society
+I20191204-02:14:42.061(-10)?    Adding: American Institute of Architecture Students
+I20191204-02:14:42.073(-10)?    Adding: American Library Association Student Chapter
+I20191204-02:14:42.081(-10)?    Adding: American Marketing Association
+I20191204-02:14:42.092(-10)?    Adding: American Meterological Society Aloha Chapter
+I20191204-02:14:42.099(-10)?    Adding: American Society of Civil Engineers
 ```
 
 ### Note regarding the "bcrypt warning":
