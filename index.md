@@ -1,4 +1,4 @@
-<img src="doc/index-front-image.PNG" alt="front image">
+<img src="doc/index-front-image.JPG" alt="front image">
 
 ## Table of contents
 
@@ -37,13 +37,13 @@ Clicking on "Login" in the top right corner of the page and then "Sign In" bring
 
 Clicking on "Login" in the top right corner of the page and then "Sign Up" brings up the [Register Page](http://manoa-club-hunt.meteorapp.com/#/signup). Sign up if you are a new user.
 
-<img src="doc/register.PNG" alt="register page">
+<img src="doc/register.JPG" alt="register page">
 
 ### Landing (after Login) Page:
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-<img src="" alt="new landing page">
+<img src="doc/landing-page-2.JPG" alt="new landing page">
 
 ### User Home Page:
 
@@ -55,13 +55,13 @@ After logging in, click on "Home" to be directed to the [User Home Page](http://
 
 After logging in, click on the user icon in the top right of the navbar then click on "Your Profile". You will go to the [User Profile Page](http://manoa-club-hunt.meteorapp.com/#/userprofile) that shows all of the data associated with your profile.
 
-<img src="doc/user-profile-page.PNG" alt="user profile page">
+<img src="doc/user-profile-page.JPG" alt="user profile page">
 
 ### Edit User Profile Page:
 
 After logging in, and going to your profile page click on the "Edit Profile" button to go to the [Edit User Profile Page](http://manoa-club-hunt.meteorapp.com/#/edituserprofile). This page allows you to edit your user profile.
 
-<img src="doc/edit-user-profile.png" alt="edit user profile page">
+<img src="doc/edit-user-profile.JPG" alt="edit user profile page">
 
 ### List Clubs Page:
 
@@ -75,7 +75,7 @@ Clubs sorted by "Academic" interst field:
 
 Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. For example, here is [AAUW-UHM's Club Profile](http://manoa-clubhunt.meteorapp.com/#/clubPage/85fq9K3x9YXqoJgTQ).
 
-<img src="doc/club-profile.PNG" alt="club profile page">
+<img src="doc/club-profile.JPG" alt="club profile page">
 
 ### Edit Club Page:
 
