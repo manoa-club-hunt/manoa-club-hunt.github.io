@@ -81,13 +81,13 @@ Clicking on the "View Profile" link for a club takes you to the club's profile p
 
 While logged in, you can click on "Edit Club" on the club profile page to go to the edit club page. This page allows you to edit the data associated with the club. For example, here is the [Edit Club Page for AAUW-UHM](http://manoa-club-hunt.meteorapp.com/#/edit/85fq9K3x9YXqoJgTQ).
 
-<img src="doc/M2Final-EditProfile.JPG" alt="edit club page">
+<img src="doc/M2Final-EditProfile.PNG" alt="edit club page">
 
 ### Add Club Page:
 
 While logged in, you can click on "Add Club" to go to the [Add Club Page](http://manoa-club-hunt.meteorapp.com/#/add) that allows you to add a club to the system.
 
-<img src="doc/add-club-page.JPG" alt="add club page">
+<img src="doc/add-club-page.PNG" alt="add club page">
 
 ## Developer Guide
 
