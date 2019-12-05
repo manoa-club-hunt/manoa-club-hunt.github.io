@@ -73,13 +73,13 @@ Clubs sorted by "Academic" interst field:
 
 ### Club Profile Page:
 
-The "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on any interest will take the user to the List Club page where clubs can be displayed according to their interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-clubhunt.meteorapp.com/#/clubPage/85fq9K3x9YXqoJgTQ).
+The "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on any interest will take the user to the List Club page where clubs can be displayed according to their interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-club-hunt.meteorapp.com/#/clubPage/y36ZJB9b2TT5eMnNa).
 
 <img src="doc/M2Final-ClubProfile.png" alt="club profile page">
 
 ### Edit Club Page:
 
-While logged in, you can click on "Edit Club" on the club profile page to go to the edit club page. This page allows you to edit the data associated with the club. For example, here is the [Edit Club Page for AAUW-UHM](http://manoa-club-hunt.meteorapp.com/#/edit/85fq9K3x9YXqoJgTQ).
+While logged in, you can click on "Edit Club" on the club profile page to go to the edit club page. This page allows you to edit the data associated with the club. For example, here is the [Edit Club Page for AAUW-UHM](http://manoa-club-hunt.meteorapp.com/#/edit/y36ZJB9b2TT5eMnNa).
 
 <img src="doc/M2Final-EditProfile.png" alt="edit club page">
 
