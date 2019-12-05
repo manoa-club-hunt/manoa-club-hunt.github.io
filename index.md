@@ -73,7 +73,7 @@ Clubs sorted by "Academic" interst field:
 
 ### Club Profile Page:
 
-Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. For example, here is [AAUW-UHM's Club Profile](http://manoa-clubhunt.meteorapp.com/#/clubPage/85fq9K3x9YXqoJgTQ).
+The "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on any interest will take the user to the List Club page where clubs can be displayed according to their interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-clubhunt.meteorapp.com/#/clubPage/85fq9K3x9YXqoJgTQ).
 
 <img src="doc/M2Final-ClubProfile.png" alt="club profile page">
 
