@@ -8,6 +8,7 @@
 * [Milestone 1 Link](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/1)
 * [Milestone 2 Link](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/2)
 * [Milestone 3 Link](https://github.com/manoa-club-hunt/manoa-club-hunt/projects/3)
+* [Community Feedback](#community-feedback)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Team Members](#team-members)
@@ -18,6 +19,8 @@ _The problem:_ UH Mānoa has hundreds of active clubs. However, it can be diffic
 _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs containing club information, club meeting location and times, club website links, and club contact information. 
 Users will be able to join clubs and receive notifications about the club.
 Clubs will be able to send out notifications to their club members through Mānoa Club Hunt. 
+
+## Community Feedback
 
 ## User Guide
 
