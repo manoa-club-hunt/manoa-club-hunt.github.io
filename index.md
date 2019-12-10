@@ -23,14 +23,19 @@ Clubs will be able to send out notifications to their club members through Māno
 ## Community Feedback
 
 ### Joshua Cruz
+_review_
 
 ### Dean Fujimoto
+_review_
 
 ### Kaylen Samson
+_review_
 
 ### Justin Pang
+_review_
 
 ### Franklin Galiza
+_review_
 
 ## User Guide
 
