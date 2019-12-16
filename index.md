@@ -63,12 +63,6 @@ Once you log in (either to an existing account or by creating a new one), the na
 
 <img src="doc/landing-page-2.JPG" alt="new landing page">
 
-### User Home Page:
-
-After logging in, click on "Home" to be directed to the [User Home Page](http://manoa-club-hunt.meteorapp.com/#/userprofile).
-
-<img src="doc/user-home-page.JPG" alt="user home page">
-
 ### User Profile Page:
 
 After logging in, click on the user icon in the top right of the navbar then click on "Your Profile". You will go to the [User Profile Page](http://manoa-club-hunt.meteorapp.com/#/userprofile) that shows all of the data associated with your profile.
