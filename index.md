@@ -91,7 +91,7 @@ Clicking on the "View Profile" link for a club takes you to the club's profile p
 
 ### Edit Club Page:
 
-While logged in, you can click on "Edit Club" on the club profile page to go to the edit club page. This page allows you to edit the data associated with the club. For example, here is the Edit Club Page for AAUW-UHM.
+While logged in, if you are an _admin_ or _officer_ you can click on "Edit Club" on the club profile page to go to the edit club page. This page allows you to edit the data associated with the club. For example, here is the Edit Club Page for AAUW-UHM.
 
 <img src="doc/M2Final-EditProfile.png" alt="edit club page">
 
