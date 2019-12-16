@@ -29,7 +29,7 @@ _As a former ICS 314 student I like that it displays all the clubs in a nice and
 _There were so much clubs that I didn't know existed on campus. The club pages are good but it would be better if it was formatted nicely._
 
 ### Kaylen Samson
-_I like the idea that you can find clubs really easy instead of scrolling through an excel sheet._
+_I like the idea that you can find clubs really easily instead of scrolling through an excel sheet._
 
 ### Justin Pang
 _I thought about joining clubs when I first dormed at Manoa but I didn't know how. It's too late for me now but I think this would be useful._
