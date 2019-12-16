@@ -77,7 +77,7 @@ After logging in, click on the user icon in the top right of the navbar then cli
 
 ### Edit User Profile Page:
 
-After logging in, and going to your profile page click on the "Edit Profile" button to go to the [Edit User Profile Page](http://manoa-club-hunt.meteorapp.com/#/edituserprofile). This page allows you to edit your user profile.
+After logging in, and going to your profile page click on the "Edit Profile" button to go to the Edit User Profile Page. This page allows you to edit your user profile.
 
 <img src="doc/edit-user-profile.JPG" alt="edit user profile page">
 
@@ -91,7 +91,7 @@ Clubs sorted by "Academic" interst field:
 
 ### Club Profile Page:
 
-The "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on an interest will take the user to the List Club page where the user can search for clubs by interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-club-hunt.meteorapp.com/#/clubPage/y36ZJB9b2TT5eMnNa).
+Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on an interest will take the user to the List Club page where the user can search for clubs by interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-club-hunt.meteorapp.com/#/clubPage/y36ZJB9b2TT5eMnNa).
 
 <img src="doc/M2Final-ClubProfile.png" alt="club profile page">
 
