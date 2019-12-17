@@ -80,9 +80,9 @@ After logging in, and going to your profile page click on the "Edit Profile" but
 
 The [List Clubs Page](http://manoa-club-hunt.meteorapp.com/#/list) shows all of the clubs currently in the system sorted alphabetically. Each club has a website link and club profile link. This page also features a dropdown bar that allows you to filter clubs based on their interest fields. 
 
-Clubs sorted by "Academic" interst field:
+Clubs sorted by "Religious" interst field:
 
-<img src="doc/final-new/final-club-listing.PNG" alt="club directory">
+<img src="doc/final-new/final-club-listing-filtered.PNG" alt="club directory">
 
 ### Club Profile Page:
 
