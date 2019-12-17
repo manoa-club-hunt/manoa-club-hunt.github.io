@@ -86,7 +86,7 @@ Clubs sorted by "Religious" interst field:
 
 ### Club Profile Page:
 
-Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on an interest will take the user to the List Club page where the user can search for clubs by interest area. For example, here is [AAUW-UHM's Club Profile](http://http://manoa-club-hunt.meteorapp.com/#/clubPage/Wz9EmRJ9PswFEZk9E).
+Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on an interest will take the user to the List Club page where the user can search for clubs by interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-club-hunt.meteorapp.com/#/clubPage/Wz9EmRJ9PswFEZk9E).
 
 <img src="doc/final-new/final-club-profile.PNG" alt="club profile page">
 
