@@ -66,7 +66,7 @@ Once you log in (either to an existing account or by creating a new one), the na
 
 ### User Profile Page:
 
-After logging in, click on the user icon in the top right of the navbar then click on "Your Profile". You will go to the [User Profile Page](http://manoa-club-hunt.meteorapp.com/#/userprofile) that shows all of the data associated with your profile.
+After logging in, click on the user icon in the top right of the navbar then click on "Your Profile". You will go to the User Profile Page that shows all of the data associated with your profile.
 
 <img src="doc/final-new/final-user-profile.PNG" alt="user profile page">
 
@@ -86,7 +86,7 @@ Clubs sorted by "Religious" interst field:
 
 ### Club Profile Page:
 
-Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on an interest will take the user to the List Club page where the user can search for clubs by interest area. For example, here is [AAUW-UHM's Club Profile](http://manoa-club-hunt.meteorapp.com/#/clubPage/y36ZJB9b2TT5eMnNa).
+Clicking on the "View Profile" link for a club takes you to the club's profile page that displays information about the club. Clicking on an interest will take the user to the List Club page where the user can search for clubs by interest area. For example, here is [AAUW-UHM's Club Profile](http://http://manoa-club-hunt.meteorapp.com/#/clubPage/Wz9EmRJ9PswFEZk9E).
 
 <img src="doc/final-new/final-club-profile.PNG" alt="club profile page">
 
