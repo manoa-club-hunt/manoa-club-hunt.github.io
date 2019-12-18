@@ -22,19 +22,19 @@ Clubs will be able to provide information about their club by displaying an imag
 
 ## Community Feedback
 
-### Joshua Cruz 
+### Computer Engineering Major
 _As a former ICS 314 student I like that it displays all the clubs in a nice and organized manner. I like the simplicity of the website design. It would be good to implement a feature so that users submit a request to create a new club and the admin can accept or deny._
 
-### Dean Fujimoto 
+### Computer Engineering Major
 _There were so much clubs that I didn't know existed on campus. The club pages are good but it would be better if it was formatted nicely._
 
-### Kaylen Samson
+### Elementary Education Major
 _I like the idea that you can find clubs really easily instead of scrolling through an excel sheet._
 
-### Justin Pang
+### Mechanical Engineering Major
 _I thought about joining clubs when I first dormed at Manoa but I didn't know how. It's too late for me now but I think this would be useful._
 
-### Franklin Galiza
+### Electrical Engineering Major
 _This website is neat and now I know about the Cannabis Club!_
 
 ## User Guide
