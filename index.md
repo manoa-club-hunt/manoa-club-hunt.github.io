@@ -14,7 +14,7 @@
 * [Team Members](#team-members)
 
 ## Overview
-_The problem:_ UH Mānoa has hundreds of active clubs. However, it can be difficult for new students to find information about potential clubs they want to join. 
+_The problem:_ UH Mānoa has hundreds of active clubs. However, it can be difficult for new students to find information about potential clubs they want to join because the list of clubs only has contact information. 
 
 _The solution:_ Mānoa Club Hunt will provide students with a directory of clubs containing club information, club website links, and club contact information. 
 Users will be able to search for clubs to join and filter clubs based on their interest preferences.
